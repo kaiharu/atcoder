@@ -6,7 +6,7 @@ using P = pair<int,int>;
 
 int main() {
 	int x;
- 	cin >> x;
+	cin >> x;
 
 	return 0;
 }
